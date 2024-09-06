@@ -192,10 +192,10 @@ export function LandingPage() {
               <div className="flex flex-col md:flex-row items-center" >
                 <div className="md:w-3/4 mb-8 md:mb-0 md:pr-8">
                   <p className="mb-4">
-                    That iss why we are dedicated to helping you cultivate a happy and long lasting relationship by offering tools and resources which aid in actively shifting your mindset and pursuing activities to strengthen your relationship - We call it Relationship Wellness!
+                    That is why we are dedicated to helping you cultivate a happy and long lasting relationship by offering tools and resources which aid in actively shifting your mindset and pursuing activities to strengthen your relationship - We call it Relationship Wellness!
                   </p>
                   <p className="mb-8">
-                    And Relationship Wellness isn not just for couples with issues—just like gyms aren npt only for those out of shape. Every couple should practice relationship wellness, and Flamme makes it easy and fun!
+                    And Relationship Wellness is not just for couples with issues—just like gyms are not only for those out of shape. Every couple should practice relationship wellness, and Flamme makes it easy and fun!
                   </p>
                   <button className="bg-white text-orange-500 px-6 py-3 rounded-full hover:bg-gray-100 transition duration-300">
                     Free Trial: Love is on Us!
