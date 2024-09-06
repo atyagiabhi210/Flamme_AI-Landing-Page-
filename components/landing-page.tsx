@@ -12,10 +12,7 @@ export function LandingPage() {
     window.addEventListener('scroll', handleScroll)
     return () => window.removeEventListener('scroll', handleScroll)
   }, [])
-  function useX(){
-    console.log(scrollY);
-  }
-  useX();
+  
 
   return (
     <div className="min-h-screen bg-white">
