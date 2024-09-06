@@ -192,13 +192,13 @@ export function LandingPage() {
               <div className="flex flex-col md:flex-row items-center" >
                 <div className="md:w-3/4 mb-8 md:mb-0 md:pr-8">
                   <p className="mb-4">
-                    That's why we're dedicated to helping you cultivate a happy and long lasting relationship by offering tools and resources which aid in actively shifting your mindset and pursuing activities to strengthen your relationship - We call it Relationship Wellness!
+                    That iss why we are dedicated to helping you cultivate a happy and long lasting relationship by offering tools and resources which aid in actively shifting your mindset and pursuing activities to strengthen your relationship - We call it Relationship Wellness!
                   </p>
                   <p className="mb-8">
-                    And Relationship Wellness isn't just for couples with issues—just like gyms aren't only for those out of shape. Every couple should practice relationship wellness, and Flamme makes it easy and fun!
+                    And Relationship Wellness isn not just for couples with issues—just like gyms aren npt only for those out of shape. Every couple should practice relationship wellness, and Flamme makes it easy and fun!
                   </p>
                   <button className="bg-white text-orange-500 px-6 py-3 rounded-full hover:bg-gray-100 transition duration-300">
-                    Free Trial: Love's on Us!
+                    Free Trial: Love is on Us!
                   </button>
                 </div>
                 <div className="md:w-1/4 text-center">
@@ -238,7 +238,7 @@ export function LandingPage() {
               <div>
                 <h3 className="text-2xl font-bold text-orange-500 mb-4" style={{color: '#f85e44'}}>Engagement Features</h3>
                 <p className="text-gray-600 mb-4">
-                Stay connected effortlessly with our quick engagement features. Share how you’re feeling, send fun emojis, and react to your partner’s updates. These small yet meaningful interactions keep the love flowing and the connection strong.                </p>
+                Stay connected effortlessly with our quick engagement features. Share how you you are feeling, send fun emojis, and react to your partner updates. These small yet meaningful interactions keep the love flowing and the connection strong.                </p>
                 <Image src="/webp/engagement_feat.webp" alt="Engagement Features" width={300} height={150} className="rounded-lg shadow-lg" />
               </div>
               <div>
@@ -266,8 +266,8 @@ export function LandingPage() {
             <div className="grid md:grid-cols-3 gap-8">
               {[
                 { name: "Emily & Mario", review: "Flamme has truly transformed our relationship! The daily questions spark such meaningful conversations.",image:"/webp/emily.webp" },
-                { name: "Yingzi & Jack", review: "The AI coach provides incredibly insightful advice. It's like having a relationship expert on call 24/7!",image:"/webp/margo.webp"  },
-                { name: "Susan & Tiago", review: "We love the emotional tracking feature. It's helped us understand and support each other so much better.",image:"/webp/susan.webp"  }
+                { name: "Yingzi & Jack", review: "The AI coach provides incredibly insightful advice. It is like having a relationship expert on call 24/7!",image:"/webp/margo.webp"  },
+                { name: "Susan & Tiago", review: "We love the emotional tracking feature. It is helped us understand and support each other so much better.",image:"/webp/susan.webp"  }
               ].map((testimonial, index) => (
                 <div key={index} className="bg-white p-6 rounded-lg shadow-lg" style={{color: 'black'}}>
                   <div className="flex items-center mb-4">
