@@ -185,7 +185,7 @@ export function LandingPage() {
                 Falling in <span className="text-orange-500"style={{color: '#f85e44'}}>love</span> is the easy part!
               </h2>
               <p className="text-xl text-gray-600">
-                It's the <span className="font-semibold">staying in love</span> that needs work.
+                It is the <span className="font-semibold">staying in love</span> that needs work.
               </p>
             </div>
             <div className="bg-gradient-to-r from-orange-400 to-orange-500 rounded-3xl p-8 text-white" style={{background: '#f85e44'}}>
@@ -290,7 +290,7 @@ export function LandingPage() {
         <section className="py-16 bg-gradient-to-r from-orange-400 to-orange-500" style={{background:'white'}}>
           <div className="container mx-auto px-4 text-center">
             <h2 className="text-4xl font-bold text-white mb-8" style={{color:'black'}}>
-              Let's start <span className="text-orange-500" style={{color: '#f85e44'}}>mingling</span>
+              Lets start <span className="text-orange-500" style={{color: '#f85e44'}}>mingling</span>
             </h2>
             <p className="text-xl text-white mb-8">Download the App Now</p>
             <div className="flex justify-center space-x-4">
