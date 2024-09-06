@@ -5,7 +5,7 @@ import Image from 'next/image'
 import { useEffect, useState } from 'react'
 
 export function LandingPage() {
-  const [scrollY, setScrollY] = useState(0)
+  const [, setScrollY] = useState(0)
 
   useEffect(() => {
     const handleScroll = () => setScrollY(window.scrollY)
